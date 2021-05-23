@@ -5,12 +5,13 @@
 #Values to use with height based reflection map
 heightReflect.width	100.00
 heightReflect.height	220.00
+heightReflect.power	1.2
 heightReflect.specularoffset	0.15
 heightReflect.waterspeed	1.00
 
 #Values to use with rain collission map
-raincollision.width	28.00
-raincollision.height	600.00
+raincollision.width	33.00
+raincollision.height	1000.00
 raincollision.specularoffset	0.50
 raincollision.waterspeed	1.00
 
@@ -211,12 +212,12 @@ cam.followvehicle.blur.zoom.z	0.00
 cam.followvehicle.blur.zoom.w	0.025
 # cam.followvehicle.blur.speed	25	50.00	0.00	0.2
 cam.followvehicle.blur.speed.x	25
-cam.followvehicle.blur.speed.y	50.00
+cam.followvehicle.blur.speed.y	10.00
 cam.followvehicle.blur.speed.z	0.00
 cam.followvehicle.blur.speed.w	0.2
 # cam.followvehicle.blur.damage	50	100.00	0.00	0.03
 cam.followvehicle.blur.damage.x	50
-cam.followvehicle.blur.damage.y	100.00
+cam.followvehicle.blur.damage.y	30.00
 cam.followvehicle.blur.damage.z	0.00
 cam.followvehicle.blur.damage.w	0.03
 cam.followvehicle.blur.damage.time	500
@@ -232,8 +233,8 @@ cam.fpsweapon.blur.cap	1
 cam.intermezzo.stuntjump.blur	0.02
 
 # Misc Values
-misc.DOFBlurMultiplier.HD	1
-misc.DOFBlurMultiplier.SD	0.5
+misc.DOFBlurMultiplier.HD	1.1
+misc.DOFBlurMultiplier.SD	0.6
 misc.Multiplier.heightStart	100
 misc.Multiplier.heightEnd	250.00
 misc.Multiplier.farClipMultiplier	2
@@ -253,5 +254,5 @@ misc.CrossPMultiplier.SkyMultiplier	1.05
 misc.CrossPMultiplier.Desaturation 	1.29
 misc.HiDof.nearBlur	1
 misc.HiDof.midBlur	0.20
-misc.HiDof.farBlur	1.00
+misc.HiDof.farBlur	1.50
 misc.cutscene.nearBlurMin	0.2
