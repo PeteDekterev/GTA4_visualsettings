@@ -212,12 +212,12 @@ cam.followvehicle.blur.zoom.z	0.00
 cam.followvehicle.blur.zoom.w	0.025
 # cam.followvehicle.blur.speed	25	50.00	0.00	0.2
 cam.followvehicle.blur.speed.x	25
-cam.followvehicle.blur.speed.y	10.00
+cam.followvehicle.blur.speed.y	50.00
 cam.followvehicle.blur.speed.z	0.00
 cam.followvehicle.blur.speed.w	0.2
 # cam.followvehicle.blur.damage	50	100.00	0.00	0.03
 cam.followvehicle.blur.damage.x	50
-cam.followvehicle.blur.damage.y	30.00
+cam.followvehicle.blur.damage.y	100.00
 cam.followvehicle.blur.damage.z	0.00
 cam.followvehicle.blur.damage.w	0.03
 cam.followvehicle.blur.damage.time	500
