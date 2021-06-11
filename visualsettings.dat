@@ -3,7 +3,8 @@
 # stores intial values for configuration of in game elements
 #Name	Value
 #Values to use with height based reflection map
-heightReflect.width	100.00
+# Example
+heightReflect.width	110.00
 heightReflect.height	220.00
 heightReflect.power	1.2
 heightReflect.specularoffset	0.15
